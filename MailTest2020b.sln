@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailTest2020b", "MailTest2020b\MailTest2020b.csproj", "{330DA6B4-CCAA-45A4-A919-DE1022BAAB66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{330DA6B4-CCAA-45A4-A919-DE1022BAAB66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{330DA6B4-CCAA-45A4-A919-DE1022BAAB66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{330DA6B4-CCAA-45A4-A919-DE1022BAAB66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{330DA6B4-CCAA-45A4-A919-DE1022BAAB66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {441211C3-ABC0-4818-8A38-B05F24C22F58}
+	EndGlobalSection
+EndGlobal
